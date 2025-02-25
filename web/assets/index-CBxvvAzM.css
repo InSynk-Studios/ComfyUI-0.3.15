@@ -3763,6 +3763,7 @@ audio.comfy-audio.empty-audio-widget {
 }
 [data-v-425cc3ac] .p-button {
   margin-left: auto;
+  display: none;
 }
 
 .comfy-missing-models[data-v-f8d63775] {

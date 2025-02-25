@@ -1651,7 +1651,7 @@ const _sfc_main$a = /* @__PURE__ */ defineComponent({
   }
 });
 const WorkflowTabs = /* @__PURE__ */ _export_sfc(_sfc_main$a, [["__scopeId", "data-v-54fadc45"]]);
-const _hoisted_1$b = { class: "absolute top-0 left-0 w-auto max-w-full" };
+const _hoisted_1$b = { class: "absolute top-0 left-0 w-auto max-w-full hidden" };
 const _sfc_main$9 = /* @__PURE__ */ defineComponent({
   __name: "SecondRowWorkflowTabs",
   setup(__props) {
